@@ -1,2 +1,2 @@
-# Projeto_Imers-o_Aula04
+# Projeto_Imerssão_Aula04
 Esse é o repositório da Imersão IA da Alura com o Google. Projeto executado na aula 04 
